@@ -1,2 +1,3 @@
-Agregando más contenido.
-¡Lo logré!
+linea 1 Hola Python Cony Jeiko Lore
+linea 2 faltan 10 minutos
+linea 3 maÃ±ana tenemos dos reuniones

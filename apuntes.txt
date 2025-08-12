@@ -1,0 +1,24 @@
+Invocar el metodo tell() para ver la posicion del puntero es byte a byte. 
+(Encuentre la posición actual del archivo).
+ver donde esta alojado en memoria la variable.
+La importancia de que el archivo se cierre cuando uso el comando open() (close())
+
+Al usar dos metodos como "r", "w" al mismo tiempo, debemos agregar el simbolo "+" 
+para asi evitar problemas de errores
+
+
+11/08/2025
+
+Ejercicios con listas
+Se ve lo que es append, para solo agregar un elemento a la vez a la lista
+Agregar dos manejo de errores.
+Concatenar dos listas y quitar duplicados manteniendo el orden
+Usar el " ".join
+es un método que une los elementos 
+de un objeto iterable (como una lista o tupla) 
+en una sola cadena, utilizando un espacio (" ") 
+como separador entre cada elemento
+
+Al usar el comando open()/close() es para evitar consumo de recursos innecesarios
+
+

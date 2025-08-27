@@ -1,3 +1,5 @@
-linea 1 Hola Python Cony Jeiko Lore
-linea 2 faltan 10 minutos
-linea 3 mañana tenemos dos reuniones
+Hola Python Cony Jeiko Lore
+
+Renglon 1 Hola Python Cony Jeiko Lore
+Renglon 2 faltan 10 minutos
+Renglon 3 mañana tenemos dos reuniones

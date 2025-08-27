@@ -22,3 +22,12 @@ como separador entre cada elemento
 Al usar el comando open()/close() es para evitar consumo de recursos innecesarios
 
 
+12/08/2025
+
+Ejercicio 7 de manejo de archivos, se crea algoritmo para resolver el ejercicio paso a paso
+
+Ejercicio 8 se ve como crear un archivo .csv
+
+13/08/2025
+
+Seguimos con el ejercicio 8

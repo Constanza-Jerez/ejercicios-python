@@ -1,1 +1,5 @@
 Hola Python Cony Jeiko Lore
+
+Linea 1 Hola Python Cony Jeiko Lore
+Linea 2 faltan 10 minutos
+Linea 3 mañana tenemos dos reuniones
